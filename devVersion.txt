@@ -1,5 +1,5 @@
-This is master branch.
+This is dev branch.
 
-Version 0.0
+Version dev-0.1
 	该版本目前没有做任何事, 也不知道该做什么.
 	
