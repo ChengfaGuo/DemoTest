@@ -1,0 +1,5 @@
+This is master branch.
+
+Version 0.0
+	该版本目前没有做任何事, 也不知道该做什么.
+	
