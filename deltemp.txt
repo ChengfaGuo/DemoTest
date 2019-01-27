@@ -1,3 +1,0 @@
-#这个文件将要被删除.
-
-#My stupid boss still prefers SVN.
